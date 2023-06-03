@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    android:gravity="center_horizontal"
+    tools:context=".AdminMainActivity">
+    <Button
+        android:id="@+id/btn_emp_check_status"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:text="@string/employee_check_in_status"
+        android:layout_marginBottom="30dp"
+        android:textSize="@dimen/button_font_size"/>
+    <Button
+        android:id="@+id/btn_log_out"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_height"
+        android:text="@string/log_out_of_login"
+        android:textSize="@dimen/button_font_size"/>
+
+    <ListView
+        android:id="@+id/lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        tools:ignore="MissingConstraints" />
+</LinearLayout>

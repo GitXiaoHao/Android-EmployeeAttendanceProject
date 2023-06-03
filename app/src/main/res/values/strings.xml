@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">职工考勤APP</string>
+    <string name="administrator_login">管理员登录</string>
+    <string name="employee_login">员工登录</string>c
+    <string name="login_by_password">密码登录</string>
+    <string name="login_by_verify_code">验证码登录</string>
+    <string name="phone_number">手机号码：</string>
+    <string name="input_phone_number">请输入手机号码</string>
+    <string name="user_name">&#160; &#160;&#160;用户名：</string>
+    <string name="input_user_name">请输入用户名</string>
+    <string name="login_password">登陆密码：</string>
+    <string name="confirm_password">确认密码：</string>
+    <string name="input_password">请输入六位密码</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="remember_password">记住密码</string>
+    <string name="login">登&#160; &#160; &#160; 录</string>
+    <string name="register">注&#160; &#160; &#160; 册</string>
+    <string name="input_new_password">输入新密码：</string>
+    <string name="input_new_password_hint">请输入新密码</string>
+    <string name="confirm_new_password">确认新密码：</string>
+    <string name="input_new_password_again">请再次输入新密码</string>
+    <string name="verify_code">&#160; &#160; 验证码：</string>
+    <string name="forget_verify_code">&#160; &#160; &#160; &#160; 验证码：</string>
+    <string name="input_verify_code">请输入验证码</string>
+    <string name="get_verify_code">获取验证码</string>
+    <string name="done">确&#160; &#160; &#160; 定</string>
+    <string name="sign_in">签到</string>
+    <string name="sign_in_success">签到成功</string>
+    <string name="personal_attendance_status">个人考勤记录</string>
+    <string name="log_out_of_login">注销登录</string>
+    <string name="employee_check_in_status">员工签到情况</string>
+</resources>
