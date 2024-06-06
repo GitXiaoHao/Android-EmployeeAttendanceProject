@@ -13,12 +13,14 @@
         android:layout_width="@dimen/button_width"
         android:layout_height="@dimen/button_height"
         android:text="@string/employee_check_in_status"
+        android:background="@drawable/translucent_button"
         android:layout_marginBottom="30dp"
         android:textSize="@dimen/button_font_size"/>
     <Button
         android:id="@+id/btn_log_out"
         android:layout_width="@dimen/button_width"
         android:layout_height="@dimen/button_height"
+        android:background="@drawable/translucent_button"
         android:text="@string/log_out_of_login"
         android:textSize="@dimen/button_font_size"/>
 

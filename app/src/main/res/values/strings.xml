@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">职工考勤APP</string>
     <string name="administrator_login">管理员登录</string>
-    <string name="employee_login">员工登录</string>c
+    <string name="employee_login">职工登录</string>
     <string name="login_by_password">密码登录</string>
     <string name="login_by_verify_code">验证码登录</string>
     <string name="phone_number">手机号码：</string>
@@ -28,5 +28,5 @@
     <string name="sign_in_success">签到成功</string>
     <string name="personal_attendance_status">个人考勤记录</string>
     <string name="log_out_of_login">注销登录</string>
-    <string name="employee_check_in_status">员工签到情况</string>
+    <string name="employee_check_in_status">职工签到情况</string>
 </resources>

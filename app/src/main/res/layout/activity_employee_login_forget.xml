@@ -119,6 +119,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/done"
+        android:layout_marginTop="@dimen/button_font_size"
+        android:background="@drawable/translucent_button"
         android:textColor="@color/black"
         android:textSize="@dimen/button_font_size"/>
 </LinearLayout>

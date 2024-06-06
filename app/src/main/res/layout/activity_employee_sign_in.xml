@@ -19,6 +19,7 @@
         android:layout_height="100dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="30dp"
+        android:background="@drawable/translucent_button"
         android:text="@string/sign_in"
         android:textSize="@dimen/button_font_size"/>
    <TextView
